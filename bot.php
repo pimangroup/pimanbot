@@ -1,6 +1,6 @@
 <?php
 $access_token = "<ACCESS TOKEN>";
-$verify_token = "EAAavmXQZC6C0BAKKd1RgyqBBUYZCBAaRWHS5wdwhWRS6rXZB9XKdBDFUmGJRLY1tkMXeevyT0BRFZALr2IUTJL3Hk3ITe4eidjXJTT2BzwLnS1caFgSgN8CP9cFiFyHbncE4O6lXRJNprFNAxWE2G8aD1xqmAvdUR7ApOlxuBwZDZD";
+$verify_token = "fb_piman_bot";
 $hub_verify_token = null;
 if(isset($_REQUEST['hub_challenge'])) {
  $challenge = $_REQUEST['hub_challenge'];
